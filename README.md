@@ -1,4 +1,6 @@
 # insight-on-covid-dataset
+![image](https://user-images.githubusercontent.com/128179012/229871416-f0ba70a5-3aa0-46f0-a040-984100bc1657.png)
+
 ## Executive Summary
 The effect of Covid19 virus is still been felt globally after 2years of its emergence and had left million dead and millions as survivals. This project is conducted in order to evaluate the level of vaccination and vaccines applied
 The data set is gathered from global record on world vaccination and the various products deployed over a period of time.
